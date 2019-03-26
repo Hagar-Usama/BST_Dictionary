@@ -1,5 +1,5 @@
 # BST_Dictionary
-A basic Dictionary implementation using Balanced BST tree, actually I used AVL tree.
+A basic spell checker implementation using Balanced BST tree, actually I used AVL tree.
 You may find further details on report :
 https://github.com/Hagar-Usama/BST_Dictionary/blob/master/Report%20and%20attachements/Data%20%23last%20proj.pdf
 
